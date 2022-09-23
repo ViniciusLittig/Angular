@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta teste",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Borracha",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name": "Carro",
+      "price": 50
+    }
+  ]
+}
