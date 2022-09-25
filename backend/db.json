@@ -16,13 +16,13 @@
       "price": 50
     },
     {
-      "name": "Produto de teste",
-      "price": 125.98,
+      "name": "Alessandra minha gatinha",
+      "price": "0",
       "id": 4
     },
     {
-      "name": "",
-      "price": null,
+      "name": "oi",
+      "price": "2",
       "id": 5
     }
   ]
