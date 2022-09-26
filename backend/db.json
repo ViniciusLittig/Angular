@@ -9,6 +9,11 @@
       "name": "teste",
       "price": "12",
       "id": 3
+    },
+    {
+      "name": "Açai",
+      "price": "20",
+      "id": 4
     }
   ]
 }
