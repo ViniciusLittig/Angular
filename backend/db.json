@@ -1,29 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta teste",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Borracha",
-      "price": 2
+      "price": "8"
     },
     {
-      "id": 3,
-      "name": "Carro",
-      "price": 50
-    },
-    {
-      "name": "Alessandra minha gatinha",
-      "price": "0",
-      "id": 4
-    },
-    {
-      "name": "oi",
-      "price": "2",
-      "id": 5
+      "name": "teste",
+      "price": "12",
+      "id": 3
     }
   ]
 }
